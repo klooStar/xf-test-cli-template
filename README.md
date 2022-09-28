@@ -1,2 +1,15 @@
-# xf-test-cli-template
-测试脚手架模板
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
